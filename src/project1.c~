@@ -21,7 +21,7 @@ int main(void) {
 			
 			printf("very good you are successful \n\n");
 		}else{
-			printf("iam sorry you are Precipitate \n\n");
+			printf("iam sorry you are faild \n\n");
 		}
 		printf("enter your point or enter -1 to exit from program \n");
 		scanf("%d", &gurd);	
